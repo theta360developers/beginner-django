@@ -1,0 +1,19 @@
+{% extends 'brand/cool.html' %}
+
+{% block content %}
+
+<div class="container pt-3">
+    <h1>{{ theta_image.title }}</h1>
+
+    <a-scene embedded>
+        <a-sky src="{{ theta_image.image.url}}" alt="">
+            </a-sky>
+    </a-scene>
+    <div class="pt-3">
+    <p>
+        {{ theta_image.summary }}
+    </p>
+    <hr>
+</div>
+</div>
+{% endblock %}
