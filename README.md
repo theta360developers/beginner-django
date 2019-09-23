@@ -11,17 +11,11 @@
 5. [Create Django template](https://www.youtube.com/watch?v=vWX8tSIL0rg&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=6&t=0s)
 6. [Add Bootstrap to Django template](https://www.youtube.com/watch?v=Nx_IpsLJaA0&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=7&t=0s)
 7. [Introduction to Django Admin Interface](https://www.youtube.com/watch?v=mMc-fm8dpX8&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=8&t=0s)
-1. Install Django with pipenv
-1. Start new Django project and app
-1. Configure Django app
-1. Create Django template
-1. Add Bootstrap to Django template
-1. Introduction to Django Admin Interface
-1. Create a Django superuser
-1. Django component overview
-1. Create Django database model
-1. Register Django database model
-1. Configure Django media upload and view settings
+8. [Create a Django superuser](https://www.youtube.com/watch?v=pRHhNLSHKW0&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=9&t=0s)
+9. [Django component overview](https://www.youtube.com/watch?v=bfaYz1VPSa4&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=10&t=0s)
+10. [Create Django database model](https://www.youtube.com/watch?v=0UEfbBuRNkE&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=11&t=0s)
+11. [Register Django database model](https://www.youtube.com/watch?v=6gBtyoCrKFU&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=12&t=0s)
+12. [Configure Django media upload and view settings](https://www.youtube.com/watch?v=mepXfSBFjZY&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=13&t=0s)
 1. Download 360 media for your project
 1. Equirectangular projection explanation
 1. Connecting Models, Views, and Templates
@@ -37,6 +31,7 @@
 1. Use brand template across site
 1. Custom listing of database objects in admin interface
 1. Finish your gallery project
+
 
 
 
