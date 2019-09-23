@@ -11,6 +11,12 @@
 5. [Create Django template](https://www.youtube.com/watch?v=vWX8tSIL0rg&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=6&t=0s)
 6. [Add Bootstrap to Django template](https://www.youtube.com/watch?v=Nx_IpsLJaA0&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=7&t=0s)
 7. [Introduction to Django Admin Interface](https://www.youtube.com/watch?v=mMc-fm8dpX8&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=8&t=0s)
+1. Install Django with pipenv
+1. Start new Django project and app
+1. Configure Django app
+1. Create Django template
+1. Add Bootstrap to Django template
+1. Introduction to Django Admin Interface
 1. Create a Django superuser
 1. Django component overview
 1. Create Django database model
