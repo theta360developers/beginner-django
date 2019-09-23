@@ -16,21 +16,21 @@
 10. [Create Django database model](https://www.youtube.com/watch?v=0UEfbBuRNkE&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=11&t=0s)
 11. [Register Django database model](https://www.youtube.com/watch?v=6gBtyoCrKFU&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=12&t=0s)
 12. [Configure Django media upload and view settings](https://www.youtube.com/watch?v=mepXfSBFjZY&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=13&t=0s)
-1. Download 360 media for your project
-1. Equirectangular projection explanation
-1. Connecting Models, Views, and Templates
-1. Models, Views, Templates explanation
-1. Django Python syntax overview
-1. Python loops in Django
-1. Django page routing overview
-1. Thumbnail to details page
-1. Django primary key
-1. A-Frame
-1. Display image fields
-1. Create brand template
-1. Use brand template across site
-1. Custom listing of database objects in admin interface
-1. Finish your gallery project
+13. [Download 360 media for your project](https://www.youtube.com/watch?v=a2NGcE_YMgY&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=14&t=0s)
+14. [Equirectangular projection explanation](https://www.youtube.com/watch?v=MKOZH_3vQkk&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=15&t=0s)
+15. [Connecting Models, Views, and Templates](https://www.youtube.com/watch?v=NB6WFVDt7Sg&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=16&t=0s)
+16. [Models, Views, Templates explanation](https://www.youtube.com/watch?v=brzYXhXnID8&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=17&t=0s)
+17. [Django Python syntax overview](https://www.youtube.com/watch?v=Zn0O99IKEr4&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=18&t=0s)
+18. [Python loops in Django](https://www.youtube.com/watch?v=5Uh8eTnpUWA&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=19&t=0s)
+19. [Django page routing overview](https://www.youtube.com/watch?v=n7TQBHOhwC8&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=20&t=0s)
+20. [Thumbnail to details page](https://www.youtube.com/watch?v=N27ywaN1ttI&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=21&t=0s)
+21. [Django primary key](https://www.youtube.com/watch?v=7T_e73bT1Zc&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=22&t=0s)
+22. [A-Frame](https://www.youtube.com/watch?v=dvyCv_xIyEE&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=23&t=0s)
+23. [Display image fields](https://www.youtube.com/watch?v=zl6nXJHEfys&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=24&t=0s)
+24. [Create brand template](https://www.youtube.com/watch?v=Vuwkk0-JOV0&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=25&t=0s)
+25. [Use brand template across site](https://www.youtube.com/watch?v=G_dF-MiVsnA&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=26&t=0s)
+26. [Custom listing of database objects in admin interface](https://www.youtube.com/watch?v=aMNonGFnGjM&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=27&t=0s)
+27. [Finish your gallery project](https://www.youtube.com/watch?v=ja3htNYE4gc&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=28&t=0s)
 
 
 
