@@ -5,30 +5,18 @@
 ## Tutorial Contents
 
 1. [Project Introduction](https://www.youtube.com/watch?v=Av_gjBIV2BE&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=2&t=0s)
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> master
 2. [Install Django with pipenv](https://www.youtube.com/watch?v=UHOe1rgCb5w&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=3&t=0s)
 3. [Start new Django project and app](https://www.youtube.com/watch?v=Fpia9OrJ1w0&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=4&t=0s)
 4. [Configure Django app](https://www.youtube.com/watch?v=gCIcpzNRFFY&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=5&t=0s)
 5. [Create Django template](https://www.youtube.com/watch?v=vWX8tSIL0rg&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=6&t=0s)
 6. [Add Bootstrap to Django template](https://www.youtube.com/watch?v=Nx_IpsLJaA0&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=7&t=0s)
 7. [Introduction to Django Admin Interface](https://www.youtube.com/watch?v=mMc-fm8dpX8&list=PL0feeJIlTI8lTruNhAG9lSi0RfPlfSVTP&index=8&t=0s)
-<<<<<<< HEAD
-=======
-=======
->>>>>>> master
 1. Install Django with pipenv
 1. Start new Django project and app
 1. Configure Django app
 1. Create Django template
 1. Add Bootstrap to Django template
 1. Introduction to Django Admin Interface
-<<<<<<< HEAD
-=======
->>>>>>> master
->>>>>>> master
 1. Create a Django superuser
 1. Django component overview
 1. Create Django database model
